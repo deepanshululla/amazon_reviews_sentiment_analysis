@@ -1,0 +1,26 @@
+
+# Ignore bundler config
+/.bundle
+
+# Ignore the default SQLite database.
+*.sqlite3
+*.sqlite
+*.pkl
+*.bin
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+
+# Ignore JetBrains RubyMine IDE settings
+/.idea
+
+
+# Ignore OSX folder attributes
+.DS_Store
+
+# Ignore RVM profiles
+.rvmrc
+
+# Ignore simplecov results
+coverage
